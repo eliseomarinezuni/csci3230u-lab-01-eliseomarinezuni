@@ -5,16 +5,16 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Eliseo Marinez
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned how git issues worked and how to create a pull request and use it for an issue.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git branch --show-current, to make sure that I am in the correct branch.
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: https://github.com/eliseomarinezuni/csci3230u-lab-01-eliseomarinezuni/pull/2
