@@ -1,7 +1,7 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here before the check turns green.
 
 ## Name
 
@@ -9,7 +9,7 @@ Eliseo Marinez
 
 ## What I learned
 
-I learned how git issues worked and how to create a pull request and use it for an issue.
+I learned how git issues worked and how to create a pull request and use it for an issue. I also learned how to open text files through the terminal.
 
 ## A Git command I will remember
 
